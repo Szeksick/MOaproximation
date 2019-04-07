@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MOnewtonsinterpolation.iml" filepath="$PROJECT_DIR$/MOnewtonsinterpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOaproximation.iml" filepath="$PROJECT_DIR$/MOaproximation.iml" />
     </modules>
   </component>
 </project>
